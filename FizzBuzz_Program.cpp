@@ -15,11 +15,11 @@ int main()
         {
             cout << "FizzBuzz" << " "<< i <<"\n";
         }
-        else if (i%5==0)
+        else if (i%3==0)
         {
             cout << "Fizz" << " "<< i <<"\n";
         }
-        else if (i%3==0)
+        else if (i%5==0)
         {
             cout << "Buzz" << " "<< i <<"\n";
         }
